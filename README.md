@@ -15,9 +15,6 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexsarker&theme=radical&hide_border=true)<br/>
 
-</div>
----
-
 [![](https://visitcount.itsvg.in/api?id=alexsarker&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
