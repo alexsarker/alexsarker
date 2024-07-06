@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/3FZLRxc/banner.png)
+![Header](https://i.ibb.co/tZ3CFkm/banner.png)
 
 # Alex Sarker
 As I dive into MERN-stack web development, I'm excited to master both front-end and back-end technologies. With my design background and love for problem-solving, I'm ready to tackle this new challenge. I'm looking forward to using frameworks like Tailwind CSS and Ant Design to create not just functional, but visually stunning web applications. With each line of code, I'm fueled by the passion to craft awesome digital experiences and push the boundaries of what's possible.
