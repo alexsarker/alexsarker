@@ -8,7 +8,7 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 
 # Tech Stack:
 <div align="center">
-    <img src="https://i.ibb.co/68CWrWr/Frame-23.png" alt="Tech Stack">
+    <img src="https://i.ibb.co/dQRdtk3/Frame-23.png" alt="Tech Stack">
 </div>
 
 # GitHub Stats:
