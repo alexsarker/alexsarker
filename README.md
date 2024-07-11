@@ -5,8 +5,8 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 
 # Socials:
 <div align="center">
-    <a href="https://behance.net/https://www.behance.net/alexsarker2"><img src="https://i.ibb.co/7W6fQhg/Dribbble.png" alt="Behance"></a>
-    <a href="https://www.linkedin.com/in/alex-sarker"><img src="https://i.ibb.co/yX3KjBk/LinkedIn.png" alt="LinkedIn"></a>
+    <a href="https://dribbble.com/alexuniverse" style="padding-right: 6px;"><img src="https://i.ibb.co/7W6fQhg/Dribbble.png" alt="Dribbble"></a>
+    <a href="https://www.linkedin.com/in/alex-sarker" style="padding-right: 6px;"><img src="https://i.ibb.co/yX3KjBk/LinkedIn.png" alt="LinkedIn"></a>
     <a href="https://x.com/https://www.linkedin.com/in/alex-sarker-9129951b3/"><img src="https://i.ibb.co/fq0Zcrt/Twitter.png" alt="X"></a>
 </div>
 
