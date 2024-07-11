@@ -7,7 +7,9 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/alexsarker2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-sarker/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/24825148/alex-sarker) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://www.linkedin.com/in/alex-sarker-9129951b3/) 
 
 # Tech Stack:
+<div align="center">
 ![CSS3](https://i.ibb.co/68CWrWr/Frame-23.png)
+</div>
 
 # GitHub Stats:
 
