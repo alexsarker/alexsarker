@@ -4,6 +4,7 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 
 
 # Socials:
+
 <div align="center">
     <a href="https://dribbble.com/alexuniverse" style="padding-right: 6px;"><img src="https://i.ibb.co/7W6fQhg/Dribbble.png" alt="Dribbble"></a>
     <a href="https://www.linkedin.com/in/alex-sarker" style="padding-right: 6px;"><img src="https://i.ibb.co/yX3KjBk/LinkedIn.png" alt="LinkedIn"></a>
@@ -11,6 +12,7 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 </div>
 
 # Tech Stack:
+
 <div align="center">
     <img src="https://i.ibb.co/mBSzyQC/Frame-23.png" alt="Tech Stack">
 </div>
