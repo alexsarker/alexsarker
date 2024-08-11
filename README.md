@@ -11,11 +11,13 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
     <a href="https://x.com/https://www.linkedin.com/in/alex-sarker-9129951b3/"><img src="https://i.ibb.co/fq0Zcrt/Twitter.png" alt="X"></a>
 </div>
 
+
 # Tech Stack:
 
 <div align="center">
     <img src="https://i.ibb.co/mBSzyQC/Frame-23.png" alt="Tech Stack">
 </div>
+
 
 # GitHub Stats:
 
