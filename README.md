@@ -19,14 +19,7 @@ As I dive into MERN-stack web development, I'm excited to master both front-end 
 </div>
 
 
-# GitHub Stats:
 
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexsarker&theme=radical&hide_border=true&background=3032A9&stroke=603DA1)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=alexsarker&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
 
 
 
